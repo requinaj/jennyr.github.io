@@ -1,0 +1,64 @@
+body{ 
+   margin: 0;
+   font-size: 20px;
+   line-height: 25px;
+}
+header{
+    background-color: rgb(224 98 12);
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+header h1{
+    color: rgb(27, 23, 23);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+header img{
+    border-radius: 100px;
+    width: 300px;
+    border: 10px solid #faf5f4;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 20px; 
+}
+main img{
+    max-width: 100%;
+}
+h2{
+    font-size: 30px;
+    color: black;
+    margin: 40px 0 10px;
+}
+a{
+    color: purple;
+}
+a:hover{
+    color: rgb(197, 236, 111);
+}
+footer{
+    background-color: rgb(224 98 12);
+    text-align: center;
+    color: black;
+    padding: 5px;
+}
+footer p{
+    margin: 5;
+}
+footer a{
+    color: #faf5f4;
+}
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+}
+p.caption{
+    color: rgb(45, 138, 139);
+    font-style: italic;
+    margin-top: 0;
+}
+h2.caption{
+    color: rgb(45, 138, 139);
+}
